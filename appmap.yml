@@ -1,0 +1,4 @@
+name: jenkins-plugin-junit
+packages:
+- path: jenkins
+- path: hudson
